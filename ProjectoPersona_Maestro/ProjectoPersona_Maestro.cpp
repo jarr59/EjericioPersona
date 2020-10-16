@@ -23,7 +23,7 @@ int main()
 	Fecha fecha;
 	fecha.anio = 0, fecha.mes = 0, fecha.dia = 0;
 
-	int op = 0, contadorPersona = 4, contadoMaestros = 0, contadorAlumnos = 0;
+	int op = 0, contadorPersona = 0, contadoMaestros = 0, contadorAlumnos = 0;
 	double salariohora = 0, horastrabajadas = 0, nota1 = 0, nota2 = 0, nota3 = 0,restaRegistro = 0;
 
 	char rp;
